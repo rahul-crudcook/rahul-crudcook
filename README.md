@@ -1,5 +1,3 @@
-[<img src="https://media.giphy.com/media/3o7aD6Z8PMn1h1Cz1e/giphy.gif" width="100%" alt="AI & Python Enthusiast"/>](https://github.com/rahul-crudcook)
-
 <h1 align="center">Hi 👋, I'm Rahul Jain</h1>
 <h3 align="center">🚀 Associate Software Engineer | AI/ML Enthusiast | Full Stack Python Developer</h3>
 
