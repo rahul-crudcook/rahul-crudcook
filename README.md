@@ -50,7 +50,7 @@
 - ✅ **Cloud AI Tools**: GCP AI Platform  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahul-crudcook/rahul-crudcook/main/TM7Ik2y - Imgur.gif" width="600">
+  <img src="https://raw.githubusercontent.com/rahul-crudcook/rahul-crudcook/main/TM7lk2y - Imgur.gif" width="600">
 </p>
 
 ---
