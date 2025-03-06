@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahul-crudcook&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/rahul-crudcook?label=Followers&style=social" alt="GitHub Followers" />
@@ -9,8 +8,14 @@
 
 ---
 
+
 <h1 align="center">Hi 👋, I'm Rahul Jain</h1>
 <h3 align="center">🚀 Associate Software Engineer | AI/ML Enthusiast | Full Stack Python Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahul-crudcook&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rahul-crudcook?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
 ---
 
@@ -41,7 +46,7 @@
 - ✅ **AI Model Deployment**: FastAPI, Flask, Docker, AWS Lambda  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="600">
 </p>
 
 ---
@@ -78,12 +83,13 @@
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-crudcook&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul-crudcook&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-crudcook&layout=compact&theme=dark&langs_count=6&hide=javascript,css,html&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-crudcook&layout=compact&theme=dark&langs_count=6&hide=javascript,css,html" />
 </p>
 
 ---
