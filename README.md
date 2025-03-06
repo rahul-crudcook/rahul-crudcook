@@ -18,10 +18,6 @@
 
 💡 **"AI is not about replacing humans, it's about augmenting human potential!"**
 
-📫 **How to reach me:**  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul-crudcook)  
-📧 **Email:** [rahul.jain@crudcook.com](mailto:rahul.jain@crudcook.com)
-
 ---
 
 ## 📂 Featured Projects
