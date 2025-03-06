@@ -53,10 +53,6 @@
 - ✅ **Model Optimization**: Hyperparameter Tuning, Grid Search, AutoML  
 - ✅ **Cloud AI Tools**: GCP AI Platform  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahul-crudcook/rahul-crudcook/main/TM7lk2y - Imgur.gif" width="500">
-</p>
-
 ---
 
 ## 🛠 Tech Stack
