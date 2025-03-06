@@ -1,6 +1,16 @@
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1280/1*B4NL8NsOivEV0UUx8CdYZg.gif" width="600">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahul-crudcook&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rahul-crudcook?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
+---
+
+
+<h1 align="center">Hi 👋, I'm Rahul Jain</h1>
+<h3 align="center">🚀 Associate Software Engineer | AI/ML Enthusiast | Full Stack Python Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahul-crudcook&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,22 +19,15 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Rahul Jain</h1>
-<h3 align="center">🚀 Associate Software Engineer | AI/ML Enthusiast | Full Stack Python Developer</h3>
-
----
-
 ## 📌 About Me
-🔹 **Associate Software Engineer** at **CrudCook**  
+🔹 Associate Software Engineer at **CrudCook**  
 🔹 Passionate about **Artificial Intelligence, Deep Learning, and Data Science**  
-🔹 Strong background in **Machine Learning, Data Engineering, and Software Development**  
-🔹 Experience in **Chatbots, ETL Pipelines, AI Model Development, and API Integrations**  
-🔹 Expertise in **Python, Flask, SQL, MongoDB, API Development**  
+🔹 Love working on **Chatbots, ETL Pipelines, Data Engineering, and AI Model Development**  
+🔹 Strong experience in **Python, Flask, SQL, MongoDB, API Development**  
 🔹 Skilled in **Deep Learning, NLP, and Computer Vision**  
 🔹 Hands-on with **AWS Services (Kinesis, CloudWatch, SNS, SQS, EventBridge)**  
 🔹 Basic knowledge of **Google Cloud, CSS, and HTML**  
 🔹 Experienced in **Google Colab and Jupyter Notebooks for AI/ML**  
-🔹 **Basic knowledge of writing unit test cases** for ensuring software quality  
 
 💡 **"AI is not about replacing humans, it's about augmenting human potential!"**
 
@@ -37,14 +40,13 @@
 
 ## 🧠 Specialization in AI/ML
 - ✅ **Deep Learning**: TensorFlow, PyTorch, OpenAI APIs  
-- ✅ **Natural Language Processing (NLP)**: Transformer models, GPT, Rasa  
+- ✅ **NLP & Chatbots**: Transformer models, GPT, Rasa  
 - ✅ **Computer Vision**: OpenCV, YOLO, CNN Architectures  
 - ✅ **Big Data & Data Engineering**: ETL Pipelines, Apache Kafka, Pandas, NumPy  
 - ✅ **AI Model Deployment**: FastAPI, Flask, Docker, AWS Lambda  
-- ✅ **Testing & Debugging**: Writing **unit test cases** for AI models and APIs  
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif](https://i.sstatic.net/K0OnO.gif)" width="600">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="600">
 </p>
 
 ---
@@ -81,12 +83,13 @@
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-crudcook&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul-crudcook&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-crudcook&layout=compact&theme=dark&langs_count=6&hide=javascript,css,html&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-crudcook&layout=compact&theme=dark&langs_count=6&hide=javascript,css,html" />
 </p>
 
 ---
