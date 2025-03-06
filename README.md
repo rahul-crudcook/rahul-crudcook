@@ -2,7 +2,7 @@
 <h3 align="center">Associate Software Engineer | AI/ML Engineer | Full Stack Python Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="600">
 </p>
 
 <p align="center">
@@ -20,6 +20,7 @@
 🔹 Strong experience in **Python, Flask, SQL, MongoDB, API Development**  
 🔹 Hands-on with **AWS Services (Kinesis, CloudWatch, SNS, SQS, EventBridge)**  
 🔹 Basic knowledge of **GCP, CSS, and HTML**  
+🔹 Experienced in **Google Colab and Jupyter Notebooks**  
 
 💬 **Ask me about:** AI/ML, Python, SQL, MongoDB, Flask, API Development, AWS Services.
 
@@ -52,6 +53,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ### **🌐 Web Technologies**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -79,6 +81,7 @@
 
 🚀 [**Real Estate Investment Chatbot**](https://github.com/rahul-crudcook/Real-Estate-Investment-Chatbot)  
 🎙️ [**Speech-to-Speech Translation**](https://github.com/rahul-crudcook/Speech-to-Speech-Trasnlation)  
+📈 [**Stock Market Trend Forecasting**](https://github.com/rahul-crudcook/Stock-Market-Trend-Forecasting)  
 
 ---
 
