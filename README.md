@@ -50,7 +50,7 @@
 - ✅ **Cloud AI Tools**: AWS Sagemaker, GCP AI Platform  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKP6VIfhE69wRS8/giphy.gif" width="600">
+  <img src=["https://media.giphy.com/media/3o7TKP6VIfhE69wRS8/giphy.gif" ](https://i.gifer.com/24Br.gif)width="600">
 </p>
 
 ---
