@@ -1,17 +1,6 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahul-crudcook&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rahul-crudcook?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
----
-
 <h1 align="center">Hi 👋, I'm Rahul Jain</h1>
 <h3 align="center">🚀 Software Engineer | AI/ML Engineer | Full Stack Python Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahul-crudcook&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rahul-crudcook?label=Followers&style=social" alt="GitHub Followers" />
-</p>
 
 ---
 
