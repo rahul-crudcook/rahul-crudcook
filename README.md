@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://imgur.com/a/wbn9IDk" width="600">
+   <img src="https://i.imgur.com/cWfDLrT.gif"
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahul-crudcook&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
