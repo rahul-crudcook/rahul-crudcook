@@ -2,7 +2,7 @@
 <h3 align="center">Associate Software Engineer | AI/ML Engineer | Full Stack Python Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="600">
 </p>
 
 <p align="center">
