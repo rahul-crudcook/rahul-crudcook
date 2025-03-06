@@ -44,7 +44,7 @@
 - ✅ **Testing & Debugging**: Writing **unit test cases** for AI models and APIs  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600">
+  <img src="[https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif](https://i.sstatic.net/K0OnO.gif)" width="600">
 </p>
 
 ---
