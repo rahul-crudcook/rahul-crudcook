@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahul-crudcook&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rahul-crudcook?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
+---
+
+
 <h1 align="center">Hi 👋, I'm Rahul Jain</h1>
 <h3 align="center">🚀 Associate Software Engineer | AI/ML Enthusiast | Full Stack Python Developer</h3>
 
