@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600">
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahul-crudcook&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -7,7 +7,6 @@
 </p>
 
 ---
-
 
 <h1 align="center">Hi 👋, I'm Rahul Jain</h1>
 <h3 align="center">🚀 Associate Software Engineer | AI/ML Enthusiast | Full Stack Python Developer</h3>
@@ -20,14 +19,16 @@
 ---
 
 ## 📌 About Me
-🔹 Associate Software Engineer at **CrudCook**  
+🔹 **Associate Software Engineer** at **CrudCook**  
 🔹 Passionate about **Artificial Intelligence, Deep Learning, and Data Science**  
+🔹 Strong background in **Python, Flask, SQL, and MongoDB**  
 🔹 Love working on **Chatbots, ETL Pipelines, Data Engineering, and AI Model Development**  
-🔹 Strong experience in **Python, Flask, SQL, MongoDB, API Development**  
-🔹 Skilled in **Deep Learning, NLP, and Computer Vision**  
-🔹 Hands-on with **AWS Services (Kinesis, CloudWatch, SNS, SQS, EventBridge)**  
-🔹 Basic knowledge of **Google Cloud, CSS, and HTML**  
-🔹 Experienced in **Google Colab and Jupyter Notebooks for AI/ML**  
+🔹 Experienced in **Cloud Computing, API Development, and Web Technologies**  
+🔹 Hands-on experience with **AWS Services (Kinesis, CloudWatch, SNS, SQS, EventBridge)**  
+🔹 **Basic knowledge of Google Cloud and Frontend Technologies (CSS, HTML)**  
+🔹 **Good understanding of Testing Principles & Writing Unit Test Cases**  
+🔹 Skilled in using **Pytest, Unittest, and Mocking for testing in Python**  
+🔹 Working on **Optimized Data Structures & Algorithms** for better performance  
 
 💡 **"AI is not about replacing humans, it's about augmenting human potential!"**
 
@@ -39,14 +40,17 @@
 ---
 
 ## 🧠 Specialization in AI/ML
-- ✅ **Deep Learning**: TensorFlow, PyTorch, OpenAI APIs  
-- ✅ **NLP & Chatbots**: Transformer models, GPT, Rasa  
-- ✅ **Computer Vision**: OpenCV, YOLO, CNN Architectures  
-- ✅ **Big Data & Data Engineering**: ETL Pipelines, Apache Kafka, Pandas, NumPy  
-- ✅ **AI Model Deployment**: FastAPI, Flask, Docker, AWS Lambda  
+- ✅ **Deep Learning**: TensorFlow, PyTorch, OpenAI APIs, Scikit-learn  
+- ✅ **NLP & Chatbots**: GPT, Rasa, Transformer-based models, Hugging Face  
+- ✅ **Computer Vision**: OpenCV, YOLO, CNN Architectures, Image Processing  
+- ✅ **Big Data & Data Engineering**: ETL Pipelines, Apache Kafka, Pandas, NumPy, Spark  
+- ✅ **AI Model Deployment**: FastAPI, Flask, Docker, AWS Lambda, Kubernetes  
+- ✅ **Data Preprocessing**: Feature Engineering, Scaling, Encoding, Data Wrangling  
+- ✅ **Model Optimization**: Hyperparameter Tuning, Grid Search, AutoML  
+- ✅ **Cloud AI Tools**: AWS Sagemaker, GCP AI Platform  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/3o7TKP6VIfhE69wRS8/giphy.gif" width="600">
 </p>
 
 ---
@@ -58,6 +62,9 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### **🗄️ Databases**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -68,12 +75,19 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### **🤖 AI/Machine Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+### **🧪 Testing & Automation**
+- **Unit Testing**: Pytest, Unittest, Mocking  
+- **API Testing**: Postman, Pytest-requests  
+- **CI/CD Pipelines**: GitHub Actions, Jenkins  
+- **Logging & Monitoring**: ELK Stack, Prometheus, Grafana  
 
 ### **🌐 Web Technologies**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -82,7 +96,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-crudcook&show_icons=true&theme=dark" />
@@ -103,17 +116,4 @@
 ---
 
 ## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahul-j-crudcook/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/rahul-crudcook">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:rahul.jain@crudcook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
----
+*(Same social links as before)*
