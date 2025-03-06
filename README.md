@@ -2,7 +2,7 @@
 <h3 align="center">Associate Software Engineer | AI/ML Engineer | Full Stack Python Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-crudcook&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-crudcook&layout=compact&theme=dark&langs_count=6&hide=javascript,css,html" />
 </p>
 
 ---
@@ -103,5 +103,3 @@
 
 ## 🎉 Fun Fact
 🚀 "AI is not about replacing humans, it's about augmenting human potential."
-
----
