@@ -64,10 +64,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-crudcook&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-crudcook&show_icons=true&theme=dark" />
 </p>
 
