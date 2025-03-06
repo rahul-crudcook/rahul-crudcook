@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600">
+  <img src="https://raw.githubusercontent.com/rahul-crudcook/rahul-crudcook/main/H0zY.gif" width="600">
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahul-crudcook&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -41,16 +41,16 @@
 
 ## 🧠 Specialization in AI/ML
 - ✅ **Deep Learning**: TensorFlow, PyTorch, OpenAI APIs, Scikit-learn  
-- ✅ **NLP & Chatbots**: GPT, Rasa, Transformer-based models, Hugging Face  
+- ✅ **NLP & Chatbots**: GPT, Transformer-based models, Hugging Face  
 - ✅ **Computer Vision**: OpenCV, YOLO, CNN Architectures, Image Processing  
 - ✅ **Big Data & Data Engineering**: ETL Pipelines, Apache Kafka, Pandas, NumPy, Spark  
-- ✅ **AI Model Deployment**: FastAPI, Flask, Docker, AWS Lambda, Kubernetes  
+- ✅ **AI Model Deployment**: FastAPI, Flask, Docker, AWS , Streamlit 
 - ✅ **Data Preprocessing**: Feature Engineering, Scaling, Encoding, Data Wrangling  
 - ✅ **Model Optimization**: Hyperparameter Tuning, Grid Search, AutoML  
-- ✅ **Cloud AI Tools**: AWS Sagemaker, GCP AI Platform  
+- ✅ **Cloud AI Tools**: GCP AI Platform  
 
 <p align="center">
-  <img src=(https://i.gifer.com/24Br.gif)width="600">
+  <img src="https://raw.githubusercontent.com/rahul-crudcook/rahul-crudcook/main/24Br.gif" width="600">
 </p>
 
 ---
@@ -75,7 +75,6 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### **🤖 AI/Machine Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -86,8 +85,7 @@
 ### **🧪 Testing & Automation**
 - **Unit Testing**: Pytest, Unittest, Mocking  
 - **API Testing**: Postman, Pytest-requests  
-- **CI/CD Pipelines**: GitHub Actions, Jenkins  
-- **Logging & Monitoring**: ELK Stack, Prometheus, Grafana  
+- **Logging & Monitoring**: ELK Stack, Grafana  
 
 ### **🌐 Web Technologies**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -109,11 +107,24 @@
 
 ## 📂 Featured Projects
 
-🚀 [**Real Estate Investment Chatbot**](https://github.com/rahul-crudcook/Real-Estate-Investment-Chatbot)  
-🎙️ [**Speech-to-Speech Translation**](https://github.com/rahul-crudcook/Speech-to-Speech-Trasnlation)  
-📈 [**Stock Market Trend Forecasting**](https://github.com/rahul-crudcook/Stock-Market-Trend-Forecasting)  
+🚀 [*Real Estate Investment Chatbot*](https://github.com/rahul-crudcook/Real-Estate-Investment-Chatbot)  
+🎙️ [*Speech-to-Speech Translation*](https://github.com/rahul-crudcook/Speech-to-Speech-Trasnlation)  
+📈 [*Stock Market Trend Forecasting*](https://github.com/rahul-crudcook/Stock-Market-Trend-Forecasting)  
 
 ---
 
 ## 🤝 Connect with Me
-*(Same social links as before)*
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-j-crudcook/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/rahul-crudcook">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:rahul.jain@crudcook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
